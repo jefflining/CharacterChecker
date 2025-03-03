@@ -11,3 +11,4 @@ let position = input.questionInt("What index number would you like to know the c
 let index = name[position];
 
 console.log("The letter that is in the positon of the index number " + position + " in " + name + " is " + index + ".");
+
